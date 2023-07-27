@@ -10,6 +10,8 @@ Aside from my academic pursuits, I actively engage in social, sports, and volunt
 
 Thank you for taking the time to read my introduction, and I look forward to potential opportunities for collaboration and further learning.
 
+📫 How to reach me dungcongnghiep4@gmail.com
+
 ## 🌐 Connect work with me
 <div style="display: flex;">
   <a href="https://www.facebook.com/jas.murad.353" target="_blank">
@@ -18,10 +20,6 @@ Thank you for taking the time to read my introduction, and I look forward to pot
   <a href="https://www.linkedin.com/in/manh-dung-phan-827b23234/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
-  <div>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-    <span>dungcongnghiep4@gmail.com</span>
-  </div>
 </div>
 
 # 💻 Skills and Technology
