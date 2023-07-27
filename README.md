@@ -8,20 +8,30 @@ Aside from my academic pursuits, I actively engage in social, sports, and volunt
 
 Thank you for taking the time to read my introduction, and I look forward to potential opportunities for collaboration and further learning.
 
-## 🌐Socials
-<img width="48" height="48" href="https://www.facebook.com/jas.murad.353" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
-<img width="48" height="48" href= "https://www.linkedin.com/in/manh-dung-phan-827b23234/" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-# 💻Skill and Technology
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/48/my-sql.png" alt="my-sql"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+## 🌐 Socials
+<div style="display: flex;">
+  <a href="https://www.facebook.com/jas.murad.353">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manh-dung-phan-827b23234/">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+  </a>
+</div>
+
+# 💻 Skills and Technology
+<div style="display: flex;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/48/my-sql.png" alt="my-sql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+</div>
+
 
 
 # 📊GitHub Stats :
