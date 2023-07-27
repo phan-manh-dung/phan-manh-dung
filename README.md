@@ -1,6 +1,14 @@
+<style>
+  .about-me-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+</style>
 # 💫About Me :
 <img width="48" height="48" src="https://img.icons8.com/doodle/48/hello--v1.png" alt="hello--v1"/> I'm Dung, <br />
-<h3> <strong> A programmer passionate about discovering and developing web applications.</strong></h3>
+<h2> <strong> A programmer passionate about discovering and developing web applications.</strong></h2>
 
 Throughout my journey of studying and working, I have actively participated in various small projects to practice and apply the skills I've learned in practical scenarios. I also have a keen interest in conducting research and building both web and mobile applications.
 
@@ -10,10 +18,10 @@ Thank you for taking the time to read my introduction, and I look forward to pot
 
 ## 🌐 Socials
 <div style="display: flex;">
-  <a href="https://www.facebook.com/jas.murad.353">
+  <a href="https://www.facebook.com/jas.murad.353" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
   </a>
-  <a href="https://www.linkedin.com/in/manh-dung-phan-827b23234/">
+  <a href="https://www.linkedin.com/in/manh-dung-phan-827b23234/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
 </div>
