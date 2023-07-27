@@ -1,7 +1,7 @@
 
 # 💫About Me
 <img width="48" height="48" src="https://img.icons8.com/doodle/48/hello--v1.png" alt="hello--v1"/> I'm Dung, <br />
-                            <h2> <strong> A programmer passionate about discovering and developing web applications.</strong></h2>
+<h2> <strong> A programmer passionate about discovering and developing web applications.</strong></h2>
 
 Throughout my journey of studying and working, I have actively participated in various small projects to practice and apply the skills I've learned in practical scenarios. I also have a keen interest in conducting research and building both web and mobile applications.
 
