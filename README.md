@@ -10,7 +10,7 @@ Aside from my academic pursuits, I actively engage in social, sports, and volunt
 
 Thank you for taking the time to read my introduction, and I look forward to potential opportunities for collaboration and further learning.
 
-📫 How to reach me dungcongnghiep4@gmail.com
+📫 How to reach me phanmanhdung2k3@gmail.com
 
 ## 🌐 Connect work with me
 <div style="display: flex;">
@@ -37,6 +37,7 @@ Thank you for taking the time to read my introduction, and I look forward to pot
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
-  <img width="48" height = "48" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite logo" data-canonical-src="https://vitejs.dev/logo.svg" style="max-width: 100%;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="bootstrap"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="bootstrap"/>
 </div>
 
